@@ -1,8 +1,9 @@
 # [Guam Hydrologic Survey](https://guamhydrologicsurvey.uog.edu/)
+<br>
 [Water and Environmental Research Institute of the Western Pacific](https://weri.uog.edu/) | [University of Guam](https://www.uog.edu/)
-<br>
+<br><br>
 The Guam Hydrologic Survey (GHS) and the Comprehensive Water Monitoring Program (CWMP) were created in 1998 by the 24th Guam Legislature’s enactment of Public Laws No. 24-247 and 24-161 respectively. WERI was charged with administering the annual legislative appropriations necessary to drive these two programs and facilitate, direct and implement their primary objectives. Both programs are now an integral component of the WERI water resources research, information dissemination, education and training mission.
-<br>
+<br><br>
 The purpose of GHS is to consolidate Guam’s hydrological data gathered over the years by local and federal government agencies and consultants, and to conduct research on water related issues of local importance. GHS also funds a variety of water resource educational programs in various formats, including guest lectures and seminars at UOG and in the community, informational and training workshops for teachers and professionals from other government agencies, field trips and talks for schoolchildren, and the publication and distribution of educational posters, maps, and fact sheets.
 
 ## MAppFx Library 
