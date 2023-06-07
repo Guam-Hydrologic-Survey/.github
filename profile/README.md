@@ -1,6 +1,6 @@
-# [Guam Hydrologic Survey](https://guamhydrologicsurvey.uog.edu/)
+<h1 align="center"><a href="https://guamhydrologicsurvey.uog.edu/">Guam Hydrologic Survey</a></h1>
 
-[Water and Environmental Research Institute of the Western Pacific](https://weri.uog.edu/) | [University of Guam](https://www.uog.edu/)
+<p align="center"><a href="https://weri.uog.edu/">Water and Environmental Research Institute of the Western Pacific</a> | <a href="https://www.uog.edu/">University of Guam</a></p>
 
 ## About
 
