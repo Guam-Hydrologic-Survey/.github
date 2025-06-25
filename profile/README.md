@@ -19,3 +19,5 @@ The first two MAppFx products, _Northern Guam Lens Aquifer Well Nitrates_ and _S
 4. [CNMI: Production Well Nitrates](https://guam-hydrologic-survey.github.io/saipan-nitrates-app)
 5. [CNMI: Production Well Chloride](https://guam-hydrologic-survey.github.io/saipan-chloride-app)
 6. [Pohnpei & Kosrae, FSM: Streamflow Duration Curves](https://guam-hydrologic-survey.github.io/fsm-fdc-app)
+
+> Visit the full _MAppFx Library_ on the Guam Hydrologic Survey website, [here](https://guamhydrologicsurvey.uog.edu/index.php/mappfx/).
